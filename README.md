@@ -12,7 +12,7 @@ divs.
 
 Add the following dependency to your `project.clj` file:
 
-[![Clojars Project](http://clojars.org/thinktopic/greenhouse/latest-version.svg)](https://clojars.org/thinktopic/greenhouse)
+[![Clojars Project](http://clojars.org/sethatwood/greenhouse/latest-version.svg)](https://clojars.org/sethatwood/greenhouse)
 
 Checkout the screenshot at the bottom of this page, or run the demo, in order to
 visually see examples of the different layout tools included.
@@ -134,4 +134,4 @@ Now open localhost:3000
 
 It should produce a page like this:
 
-![greenhouse demo](https://raw.githubusercontent.com/thinktopic/greenhouse/master/resources/public/images/greenhouse-demo.png)
+![greenhouse demo](https://raw.githubusercontent.com/sethatwood/greenhouse/master/resources/public/images/greenhouse-demo.png)
